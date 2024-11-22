@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**padio514/padio514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 안녕하세요! 저는 [이름]입니다.
+🧑‍💻 About Me
+중앙대학교 예술공학부 예술공학과에 재학 중이며, 게임 개발자를 꿈꾸고 있는 대학생입니다. 특히 게임의 디자인이나 기획보다는 코드를 사용하는 구현 분야에 관심이 많습니다.
+게임과 프로그래밍 외에도 음악, 주식 등에 흥미를 가지고 있으며, 끊임없이 배우고 성장하기 위해 노력하고 있습니다.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Skills
+Languages
+(가장 선호)
+(느려서 아쉬움)
+(문법 독특하지만 사용 가능)
+Technologies
+Web Development: HTML, CSS, JavaScript (간단한 웹 문서 제작 경험 있음)
+Algorithms: BFS, DFS, 다익스트라, 이진탐색 (탐색 알고리즘), 버블/선택 정렬 (정렬 알고리즘)
+Tools
+(C++과 함께 사용 경험)
+📚 Projects
+1️⃣ 미로 탈출 게임
+언리얼 엔진과 **C++**를 사용해 제작
+안드로이드 기반으로 구동하며, 핸드폰의 자이로 센서를 활용해 판을 기울여 공을 굴리는 방식
+1학년 때 개발한 간단한 게임 프로젝트
+2️⃣ AI 프로젝트
+당뇨 예측 AI (고등학교 2학년)
+주가 예측 AI (고등학교 3학년)
+AI 개발 과정에서 데이터 전처리, 오버피팅 방지, 단/다층 퍼셉트론, CNN, RNN 모델 등을 학습
+📧 Contact
+Email: psh35083509@gmail.com
+🤝 Let's Collaborate!
+저와 함께 흥미로운 프로젝트를 진행하고 싶으시다면 언제든지 연락주세요!
+GitHub 활동 뱃지를 통해 제 프로필에서 더 많은 정보를 확인하실 수 있습니다.

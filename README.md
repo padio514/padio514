@@ -34,7 +34,7 @@
 
 ### 2️⃣ **AI 프로젝트**  
 - 🤖 **당뇨 예측 AI** *(고등학교 2학년)*  
-  - **[의료 데이터](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)**를 활용해 개인의 당뇨 발병 가능성을 예측하는 모델을 개발했습니다.  
+  - [의료 데이터](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)를 활용해 개인의 당뇨 발병 가능성을 예측하는 모델을 개발했습니다.  
   - 프로젝트 과정에서 **데이터 전처리**(결측치 처리 및 정규화)와 **분류 모델**(Logistic Regression, Decision Tree)을 학습하고 비교하였습니다.  
   - 최종적으로 **약 0.78의 정확도**를 기록하였으며, 데이터 특성에 따른 모델 선택의 중요성을 배웠습니다.
     

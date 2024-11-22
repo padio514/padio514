@@ -56,7 +56,6 @@
 ---
 
 ## 🔥 GitHub Stats  
-## 🔥 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=padio514&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padio514&layout=compact&theme=radical)  
 
